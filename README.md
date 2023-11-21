@@ -15,17 +15,23 @@ Para encontrar pessoas compatíveis com o convívio diário, é necessário esco
 Esse trabalho auxilia na entrevista, buscando encontrar o par mais compátivel para morar junto. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![image](https://github.com/Thais-ra/thais-ra/assets/35047444/3b9b68f6-8bba-47a6-9437-f06d9ad8c718)
+_Imagem 01: Menu Principal
+
+![image](https://github.com/Thais-ra/thais-ra/assets/35047444/c34ea404-467b-41ed-a1e6-5ae26d8a4e55)
+_Imagem 02: Cadastro de candidato  
+
+![image](https://github.com/Thais-ra/thais-ra/assets/35047444/aa2604d5-1dc5-45c3-a235-b4828facd0aa)
+_Imagem 03: Resultado
 
 ## Instalação 
 **Linguagem**: Python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Após clonar o projeto rode:
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+```
+    python3 main.py
+```
+Cadastre novos candidatos na opção "1" e veja qual é o resultado mais compatível na opção "2".
+Caso não queira usar o arquivo de testes exclua o arquivo "entrevistas.json".
