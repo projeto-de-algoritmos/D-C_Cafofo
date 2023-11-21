@@ -15,7 +15,7 @@ Para encontrar pessoas compatíveis com o convívio diário, é necessário esco
 Esse trabalho auxilia na entrevista, buscando encontrar o par mais compátivel para morar junto. 
 
 ## Screenshots
-![image](https://github.com/Thais-ra/thais-ra/assets/35047444/3b9b68f6-8bba-47a6-9437-f06d9ad8c718)
+![image](https://github.com/Thais-ra/thais-ra/assets/35047444/5421170d-94e0-4668-bc95-039d576679f7)
 _Imagem 01: Menu Principal
 
 ![image](https://github.com/Thais-ra/thais-ra/assets/35047444/c34ea404-467b-41ed-a1e6-5ae26d8a4e55)
