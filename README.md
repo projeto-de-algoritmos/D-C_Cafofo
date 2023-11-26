@@ -35,3 +35,8 @@ Após clonar o projeto rode:
 ```
 Cadastre novos candidatos na opção "1" e veja qual é o resultado mais compatível na opção "2".
 Caso não queira usar o arquivo de testes exclua o arquivo "entrevistas.json".
+
+## Apresentação
+
+- [Vídeo de apresentação](https://unbbr.sharepoint.com/:v:/s/ok632/EXO0kbzlCGhHpBhhpOuGn_sBc4a631-BFW8gZF5ElRa5-w?e=myOIMO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
